@@ -1,4 +1,4 @@
-### usage: ./getProtectionJob.ps1 -vip mycluster -username admin
+### usage: ./getVMProtectionJob.ps1 -vip mycluster -username admin
 
 ### process commandline arguments
 [CmdletBinding()]
