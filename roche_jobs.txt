@@ -1,0 +1,50 @@
+VC-rkamv1132-NOP
+VC-rbamv738-NOP-L1
+VC-rkamvkau02vc-NOP
+VC-rkamvkau02vc-PRD
+TESTSANDPIT
+VC-rbamv738-PRD-L1
+VC-rkamv1132-PRD
+VC-rkamvkau03vc-PRD
+TESTSQLBIG VOL-BASED
+VC-rbamv738-NOP-L2
+VC-rbamv738-NOP-W1
+VC-rbamv738-NOP-W2
+RB_RA_Test_idd_icc
+@{remoteHost=; username=oracle; incrementalBackupScript=}
+TEST SPLUNK ALERT
+VC-rbalvvcsa01-PRD
+VC-rbamv738-PRD-W1
+VC-rkamv1132-PRD-0600
+VC-rkamvkau02vc-NOP-W1
+VC-rbalvvcsa01-NOP
+Special Retention
+KAU-OS-WIN-PRD-1
+VC-rkamvkau02vc-PRD-W1
+BAS-OS-WIN-PRD-1
+VC-rbamv738-PRD-JBOSS
+BAS-OS-WIN-NOP-1
+BAS-OS-WIN-PRD-rbamsmfc185
+BAS-OS-LNX-PRD-rbalvuxsat6
+VC-rkamvkau02vc-PRD-L1
+VC-rbamv738-PRD-W2
+VC-rkamvkau03vc-NOP
+VC-RBAMVVMSCVC01-PRD
+KAU-OS-WIN-PRD-NOSSD
+VC-rbamv738-PRD-SAP
+VC-rkamv1132-PRD-SAP
+VC-rbamv738-PRD-ORA
+VC-rkamv1132-PRD-ORA
+VC-rkamvkau02vc-NOP-ORA
+VC-rkamvkau02vc-PRD-ORA
+VC-rkamvkau03vc-NOP-ORA
+VC-rbamv738-NOP-ORA
+VC-rkamvkau02vc-PRD-SAP
+RWE-OS-WIN-PRD-MEDIA
+VC-rkamv1132-BCK-Vcenters
+KAU-OS-WIN-NOP-NOSSD
+RKA-WIN-PRD-TEST-LILLO
+BAS-OS-LNX-PRD-rbaus144
+BAS-OS-LNX-PRD-rbaus144-FS
+VC-rbamv738-BCK-Vcenters 
+VC-rkamvkau02vc-BCK-Vcenters

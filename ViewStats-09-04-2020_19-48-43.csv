@@ -1,0 +1,100 @@
+View Name,Logical(GB),Storage Consumed(GB),Data Written (GB),Resiliency (GB),QOS Type,Protocol Supported,View ID
+andy,0,0,0,0,Backup Target Low,kSMBOnly,1662531723
+Rahul-Test-Clone,0,0,0,0,TestAndDev High,kAll,1597682157
+GAPsql,0,0,0,0,Backup Target Low,kAll,1562933215
+Jaspreet_test,0,0,0,0,Backup Target Low,kAll,1551082077
+s3_bucket,0,0,0,0,Backup Target Low,kS3Only,1535497748
+hiduett4,0,0,0,0,Backup Target Low,kAll,1497846034
+hiduet4,0,0,0,0,Backup Target Low,kAll,1496669631
+hi3duett,0,0,0,0,Backup Target Low,kAll,1494980455
+dfsshare,0,0,0,0,Backup Target Low,kAll,1494939308
+Raj-View-Testing,0,0,0,0,Backup Target Low,kAll,1414524883
+windows_share,30.29,33.74,22.5,11.24,Backup Target SSD,kAll,1382928576
+clonedir,0,0,0,0,Backup Target Low,kAll,1380830487
+Image,22.1,14.01,9.34,4.67,Yoda High,kAll,1378598964
+hellosql,0.03,0.01,0,0.01,Backup Target Low,kAll,1365111348
+RestoreView,0,0,0,0,TestAndDev High,kAll,1351444790
+benjaminarchivaltest,123.9,171.75,114.5,57.25,Backup Target Low,kAll,1343480228
+Clone_Test01,172,22.43,14.95,7.48,TestAndDev Low,kAll,1314207210
+duettfile_2020-06-03_16-12,0.03,0.01,0,0.01,Backup Target High,kSMBOnly,1312375915
+duett_clone,0,0,0,0,Backup Target High,kSMBOnly,1312354307
+10.16.18.18,0.03,0.01,0,0.01,Backup Target High,kSMBOnly,1311706474
+duett.com,0.06,0.01,0,0.01,Backup Target Low,kSMBOnly,1311645609
+duett,0.03,0.01,0,0.01,Backup Target High,kSMBOnly,1310473447
+Christoph,0,0,0,0,TestAndDev High,kAll,1305783526
+Rahul-Test,0,0,0,0,,kAll,1282907127
+test_view_permissions,0,0,0,0,,kNFSOnly,1257112252
+igorview,0.02,0.01,0.01,0,TestAndDev High,kAll,1241420370
+SomeView1,0,0,0,0,Backup Target SSD,kSMBOnly,1240283285
+datamigration,0,0,0,0,TestAndDev High,kAll,1199454470
+maheshET,4.34,1.9,1.26,0.64,Backup Target Low,kAll,1194953927
+cohesity_m_replication-393554-3483-175424333537958,0,0,0,0,TestAndDev High,kAll,1168490825
+testing-pg-repl-clu2-toclu1,0,0,0,0,TestAndDev High,kAll,1167323025
+check_remote_creation,0,0,0,0,TestAndDev High,kSMBOnly,1164861148
+view_3_testing_suffix_remote_testing,0,0,0,0,TestAndDev High,kAll,1163434292
+view_2_testing_suffix_remote_testing,0,0,0,0,TestAndDev High,kAll,1163433228
+view_1_test_suffix_remote_testing,0,0,0,0,TestAndDev High,kAll,1163431139
+un_test-Copy1,0,0,0,0,TestAndDev Low,kAll,1129340377
+failover_dr,0,0,0,0,Backup Target Low,kNFSOnly,1019276351
+Mixed_Protocol,0,0,0,0,Backup Target Low,kAll,984259254
+SMB_Only,0,0,0,0,Backup Target Low,kSMBOnly,983872494
+TestVIEW,0,0,0,0,Backup Target Low,kAll,922380503
+un_test-Copy-deepika,0,0,0,0,Backup Target Low,kAll,882143892
+Mount-NAS_Mar_7_2020_9-24am,0,0,0,0,Backup Target SSD,kAll,876637111
+frank-vb,0,0,0,0,TestAndDev High,kAll,823839979
+db-frank-rw,0,0,0,0,Backup Target Low,kAll,820948016
+db-frank,0.03,0.04,0.03,0.01,Backup Target Low,kAll,820940765
+DR_VIEW,0,0,0,0,Backup Target Low,kNFSOnly,785719512
+un_test-Copy,0.21,0.17,0.11,0.06,TestAndDev High,kAll,764887025
+un_test,0,0,0,0,Backup Target Low,kAll,764865432
+compressed,0.39,0.13,0.08,0.05,Backup Target Low,kAll,762764562
+mahesh-sd-view-Copy-DataLock,0,0,0,0,Backup Target Low,kAll,680300300
+blr-sre-clu1_Datastore01,16740.48,1506.71,1003.37,503.34,Backup Target Low,kAll,639028412
+ISO_Store,527.93,123.09,82.06,41.03,Backup Target Low,kNFSOnly,628676531
+target123,0,0,0,0,Backup Target Low,kNFSOnly,585692698
+Customer_test,0,0,0,0,Backup Target Low,kNFSOnly,585667060
+Customer_Test123,0,0,0,0,TestAndDev Low,kNFSOnly,581736105
+ArchiveNAS,23.55,21.7,14.47,7.23,Backup Target Low,kAll,561369985
+Deepika-restore-test,3420,0.68,0.46,0.22,Yoda High,kAll,559967485
+VM-restore-test-case00135593,6993.19,960.66,640.44,320.22,Yoda High,kAll,557537429
+imanis-view,59.87,13.48,8.99,4.49,TestAndDev Low,kNFSOnly,504242321
+Test2,107.03,136.12,90.75,45.37,Backup Target Low,kAll,484644682
+Test1,0,0,0,0,Backup Target Low,kAll,484641601
+Mount-NAS_Oct_17_2019_5-24pm,107.03,136.12,90.75,45.37,Backup Target Low,kAll,484638512
+cohesity_int_3730878_2e11b,0,0,0,0,TestAndDev High,kAll,420388087
+Mount-NetApp_Aug_8_2019_7-59am,1,0.12,0.08,0.04,TestAndDev High,kAll,334953848
+NFS,0,0,0,0,Backup Target Low,kAll,294944693
+testing,0,0,0,0,Backup Target Low,kAll,246603950
+mahesh-sd-view,0.09,0.13,0.09,0.04,Backup Target Low,kAll,244494807
+KunalOrgView,0,0,0,0,Backup Target Low,kAll,214137117
+benjaminOrgView,0,1.3,0.87,0.43,TestAndDev High,kAll,214135052
+ctctest,0,0,0,0,TestAndDev High,kAll,154874768
+testvbk,0,0,0,0,Backup Target High,kAll,153677856
+cohesity_int_1294543,172,22.43,14.95,7.48,TestAndDev High,kAll,135920737
+new,16,1.3,0.87,0.43,TestAndDev High,kAll,124091315
+cohesity_int_911639,0,0,0,0,TestAndDev High,kAll,104610945
+test,50,0.84,0.56,0.28,TestAndDev High,kAll,63995771
+yash,0,0,0,0,Backup Target Low,kAll,61989916
+benjamintest01,198.51,86.61,57.74,28.87,TestAndDev High,kAll,53538141
+cohesity_int_90419,0,0,0,0,TestAndDev High,kAll,38580429
+cohesity_int_77201,0,0,0,0,TestAndDev High,kAll,36386992
+cohesity_int_77023,0,0,0,0,TestAndDev High,kAll,35649710
+test-view,32,48.1,32.06,16.04,Backup Target Low,kAll,32240479
+test-2,0,0,0,0,Backup Target Low,kNFSOnly,27544658
+Kunal,0.05,0.07,0.05,0.02,Backup Target Low,kAll,26472359
+Mount-NAS_Nov_2_2018_1-29pm,25.86,33.59,22.39,11.2,TestAndDev High,kAll,16896270
+un_fundaments,90.55,10.3,6.86,3.44,TestAndDev High,kAll,16603652
+testclone,0,0,0,0,Backup Target Low,kAll,11102029
+caseInsensitive,0,0,0,0,Backup Target Low,kAll,11102028
+VM_Datastore,62,5.78,3.85,1.93,Backup Target SSD,kAll,10529538
+mtime_view,0,0,0,0,Backup Target Low,kSMBOnly,5759979
+Nanda-test,0,0,0,0,TestAndDev High,kAll,5194080
+failover,0,0,0,0,,,
+vbs-frank-db,0,0,0,0,,,
+share_3,0,0,0,0,,,
+testing-ps-remote-view,0,0,0,0,,,
+share_2_testing,0,0,0,0,,,
+Raj_SQL_SMB_Test,0,0,0,0,,,
+share_1_testing,0,0,0,0,,,
+testing-raj,0,0,0,0,,,
+BlrSreDS,0,0,0,0,,,

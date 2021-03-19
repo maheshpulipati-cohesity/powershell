@@ -36,13 +36,15 @@ foreach ($job in ((api get protectionJobs) | Where-Object { $_.name -eq $protect
     foreach ($run in $runs) {
 
         $runDate = usecsToDate $run.copyRun[0].runStartTimeUsecs
-        $jobName = $run.jobName
-
+	$expiryDate = usecsToDate $run.copyRun[0].runexpiryTimeUsecs        
+	$jobName = $run.jobName
+	
+	
         ### If the Local Snapshot is not expiring soon...
         foreach ($copyRun in $run.copyRun) {
-                    if ($expire) {
+                   if ($expire) {
                         ### expire the local snapshot
-                        write-host "Expiring  $runDate  $jobName" -ForegroundColor Green
+                        write-host "Expiring  $runDate $expiryDate $jobName" -ForegroundColor Green
                         $expireRun = @{'jobRuns' = @(
                                 @{'expiryTimeUsecs'     = 0;
                                     'jobUid'            = $run.jobUid;
@@ -55,11 +57,11 @@ foreach ($job in ((api get protectionJobs) | Where-Object { $_.name -eq $protect
                                 }
                             )
                         }
-                        api put protectionRuns $expireRun
-                    }
+                        api get protectionRuns $expireRun
+                }
                     else {
                         ### display that we would expire this snapshot if -expire was set
-                        write-host "To Expire $runDate  $jobName " -ForegroundColor Green
+                        write-host "To Expire $runDate $expiryDate $jobName " -ForegroundColor Green
                     }
             }
         }

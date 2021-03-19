@@ -1,4 +1,4 @@
-### usage: ./resumeProtectionJob.ps1 -vip mycluster -username admin -protectionJobName Ajit_Test 
+### usage: ./resumeProtectionJob.ps1 -vip mycluster -username admin -password admin -protectionJobName Ajit_Test 
 
 ### process commandline arguments
 [CmdletBinding()]
@@ -6,6 +6,7 @@ param (
     [Parameter(Mandatory = $True)][string]$vip, #Cohesity cluster to connect to
     [Parameter(Mandatory = $True)][string]$username, #Cohesity username
     [Parameter()][string]$domain = 'local', #Cohesity user domain name
+    [Parameter(Mandatory = $True)][string]$password, #Cohesity password
     [Parameter(Mandatory = $True)][string]$protectionJobName #Name of the protection job to resume
 )
 
@@ -14,7 +15,7 @@ param (
 . ./cohesity-api
 
 ### authenticate
-apiauth -vip $vip -username $username -domain $domain
+apiauth -vip $vip -username $username -password $password -domain $domain
 
 ### get existing protection jobs
 $protectionJobs = api get protectionJobs?names=$protectionJobName
@@ -41,4 +42,3 @@ $JobId = $protectionJob.Id
 echo "Resuming $protectionJobName Protection Job...."
 
 api post protectionJobState/$JobId @{ 'pause'= $false}
-

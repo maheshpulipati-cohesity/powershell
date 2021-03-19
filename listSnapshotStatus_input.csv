@@ -1,0 +1,11 @@
+sha_job_inf_prod_1000_All-Infra_vm
+sha_job_eng_prod_2000_All-Eng_vm
+sha_job_biz_prod_3000_All-Biz_vm
+sha_job_eng_prod_3001_All-Eng1_nfs
+sha_job_eng_prod_3001_All-Eng2_nfs
+sha_job_eng_prod_3001_All-Eng3_nfs
+sha_job_eng_prod_3001_All-Eng1_smb
+netmon00
+sha_job_inf_prod_a0001_nfs-set01
+sha_job_inf_prod_a0001_nfs-set02
+sha_job_inf_prod_a0001_smb-set01

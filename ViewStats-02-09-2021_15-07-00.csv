@@ -1,0 +1,109 @@
+View Name,Logical(GB),Storage Consumed(GB),Data Written (GB),Resiliency (GB),Logical Quota (GB),QOS Type,Protocol Supported,View ID
+nastarget4,0.04,0,0,0,0,TestAndDev High,kUnknown,2039391251
+nastarget1,0.04,0,0,0,0,TestAndDev High,kUnknown,2039257225
+Prashanth-test,0,0,0,0,0,TestAndDev High,kAll,2033851856
+Corsiview2,0,0,0,0,0,TestAndDev High,kAll,2027716226
+Kushal_Test_View,0,0,0,0,0,TestAndDev High,kAll,2017762914
+Rajasekhar-NFS-Testing,0,0,0,0,0,TestAndDev High,kUnknown,2008210497
+VadiNasNFS,0,0,0,0,0,TestAndDev High,kAll,2000446241
+Prajwaltestnas,1,0,0,0,0,TestAndDev High,kAll,2000423208
+VadiNas,0.04,0.05,0.03,0.02,0,TestAndDev High,kAll,2000071097
+Ncg,0,0,0,0,0,TestAndDev High,kAll,1992249354
+test123-Copy,0,0,0,0,0,TestAndDev High,kAll,1991455901
+blrsreds-Copy-1,8878.13,749.72,499.81,249.91,0,TestAndDev High,kNFSOnly,1991448688
+shanmukha-Copy1,0,0,0,0,0,Backup Target Low,kAll,1991445581
+s3view,0,0,0,0,0,TestAndDev High,kS3Only,1984171017
+Test2,0,0,0,0,20,TestAndDev High,kAll,1982759702
+Corsiview1,0,0,0,0,0,TestAndDev High,kAll,1966271332
+duptest123,0,0,0,0,0,Backup Target Low,kAll,1958863460
+testingsharesrv,0,0,0,0,0,TestAndDev High,kAll,1958817731
+test123,0,0,0,0,0,TestAndDev High,kAll,1958746899
+test_py_0o7555,0,0,0,0,0,,kNFSOnly,1958207988
+Corsi_view1,0,0,0,0,0,TestAndDev High,kAll,1957270044
+prajwalnas,0,0,0,0,0,TestAndDev High,kAll,1955508044
+duetthello2,0,0,0,0,0,TestAndDev High,kAll,1948061656
+testdevhigh,0,0,0,0,0,TestAndDev High,kAll,1948053442
+duetthello,0,0,0,0,0,Backup Target Low,kAll,1948044139
+TestTrigger,0,0,0,0,0,TestAndDev High,kSMBOnly,1938605637
+TestArch,24.52,29.08,19.38,9.7,0,TestAndDev High,kAll,1932145523
+Rahul-Test-Copy,0,0,0,0,0,Backup Target High,kNFSOnly,1904624840
+mixed2,0.05,0.08,0.05,0.03,0,TestAndDev High,kAll,1836652337
+mixed,0,0,0,0,0,TestAndDev High,kAll,1826839122
+Rahul-Test,0,0,0,0,0,Backup Target High,kNFSOnly,1806079029
+DMK_S3,0.32,0.49,0.33,0.16,0,TestAndDev High,kS3Only,1802637316
+DMK_SMB,0,0,0,0,0,TestAndDev High,kSMBOnly,1760576592
+hana-view,2.4,0.78,0.52,0.26,0,TestAndDev High,kAll,1745216919
+ra-size-view,8192.7,49.5,24.75,24.75,0,TestAndDev High,kAll,1742793292
+DMK_NFS,0.16,0.24,0.16,0.08,0,TestAndDev High,kNFSOnly,1740603406
+sathish-test,0,0,0,0,0,TestAndDev High,kAll,1725472150
+imanis-view-clu1,30.88,11.39,7.59,3.8,0,TestAndDev Low,kUnknown,1725098276
+cohesity_int_556810_139fe,0,0,0,0,0,TestAndDev High,kAll,1665552044
+benjamin_ncg_esxi,40,0,0,0,0,TestAndDev High,kAll,1624528587
+cohesity_int_506565_139fe,0,0,0,0,0,TestAndDev High,kAll,1575331093
+Archive-jayD,0,0,0,0,0,TestAndDev High,kAll,1506401586
+Corsi_View,0,0,0,0,0,TestAndDev High,kAll,1462380650
+Jaspreet,0,0,0,0,0,Restore High,kAll,1450752551
+test_copy,0.21,0.22,0.11,0.11,0,TestAndDev High,kAll,1441841171
+deepika1,0,0,0,0,0,TestAndDev High,kAll,1433214787
+deepika,0,0,0,0,0,TestAndDev High,kAll,1433213751
+test,0,0,0,0,0,TestAndDev High,kAll,1431034186
+Test1,0,0,0,0,0,TestAndDev High,kAll,1431033150
+test493,0,0,0,0,0,,kAll,1427583892
+test755,0,0,0,0,0,,kAll,1427581757
+test_view_permissions9,0,0,0,0,0,,kNFSOnly,1426365171
+test_view_permissions8,0,0,0,0,0,,kNFSOnly,1426363110
+test_view_permissions7,0,0,0,0,0,,kNFSOnly,1426107407
+test_view_permissions6,0,0,0,0,0,,kNFSOnly,1426105344
+test_view_permissions2,0,0,0,0,0,,kNFSOnly,1421268789
+test_view_permissions1,0,0,0,0,0,,kNFSOnly,1421268777
+test_view_permissions,0,0,0,0,0,,kNFSOnly,1421268727
+NFS,0,0,0,0,0,TestAndDev High,kAll,1418810732
+Clone_Test,16,2.98,1.49,1.49,0,TestAndDev High,kAll,1400080703
+share_3,0,0,0,0,0,TestAndDev High,kAll,1390209270
+share_2_testing,0,0,0,0,0,TestAndDev High,kAll,1389309408
+share_1_testing,0,0,0,0,0,TestAndDev High,kAll,1389309397
+testing-ps-remote-view,0,0,0,0,0,TestAndDev High,kAll,1389285223
+clone_raj_view,0,0,0,0,0,TestAndDev High,kAll,1388763977
+Clone_testing-pg-repl-clu2-toclu1,0,0,0,0,0,TestAndDev High,kAll,1388763957
+testing-raj,0,0,0,0,0,TestAndDev High,kAll,1388714819
+Raj_SQL_SMB_Test,0,0,0,0,0,TestAndDev High,kSMBOnly,1346224972
+Shanmukha-Copy,0,0,0,0,0,Backup Target Low,kAll,1332688330
+Shanmukha,0,0,0,0,0,Backup Target Low,kAll,1332488775
+Cut-Test,0,0,0,0,0,TestAndDev High,kAll,1331580677
+blr_un_bootcamp,1.38,0.7,0.47,0.23,0,TestAndDev High,kAll,1327386063
+testing,0,0,0,0,0,TestAndDev High,kAll,1321003554
+Jaspreet_test,6.83,12.44,6.22,6.22,0,TestAndDev High,kAll,1313571237
+TestP,100,10.01,5.01,5,0,TestAndDev High,kSMBOnly,1312537410
+blrsreds-Copy,5969.32,264.22,176.15,88.07,0,Backup Target Low,kNFSOnly,1302464539
+db-frank-rw-cut,0,0,0,0,0,Backup Target Low,kAll,1293883980
+db-frank-dr,0,0.06,0.03,0.03,0,Backup Target Low,kAll,1293881872
+vbs-frank-db,0,0,0,0,0,TestAndDev High,kAll,1293867038
+esxhb2,0,0,0,0,50,Backup Target Low,kNFSOnly,1263087546
+esxhb1,0,0,0,0,50,Backup Target Low,kNFSOnly,1263087535
+imanis-view,3.55,0.77,0.39,0.38,0,TestAndDev Low,kNFSOnly,1160223541
+anand-deleteme,0,0,0,0,0,Backup Target Low,kNFSOnly,1091307390
+archive,0.02,0.03,0.02,0.01,0,Backup Target Low,kAll,859818501
+Fahim-Copy,0,0,0,0,0,Backup Target Low,kAll,856931278
+Fahim,6.83,12.69,6.34,6.35,0,Backup Target Low,kAll,852360476
+Clone_26931,4900,28.74,19.16,9.58,0,Yoda High,kAll,832127775
+benjaminNASVault,7.7,4.73,3.15,1.58,0,Backup Target Low,kNFSOnly,794165654
+benjaminarchivetest2,0.04,0.01,0,0.01,0,Backup Target Low,kAll,791866846
+benjaminarchivetest1,46.82,36.6,24.39,12.21,0,Backup Target Low,kAll,791865815
+Mount-Isilon_May_28_2019_7-01pm,2.42,3.6,2.4,1.2,0,Backup Target High,kAll,750447832
+Yash,0,0,0,0,0,Backup Target Low,kAll,436756928
+Yash1,0,0,0,0,0,Backup Target Low,kAll,89773560
+Rec,0,0,0,0,0,Backup Target Low,kAll,84963781
+BlrSreDS,9071.03,789.9,526.37,263.53,0,TestAndDev High,kNFSOnly,66670415
+Genericnas-test,0,0,0,0,0,Backup Target Low,kAll,55726040
+SMB_View_testing,0,0,0,0,0,Backup Target Low,kSMBOnly,51374116
+pure_nfs,0,0,0,0,0,Backup Target Low,kAll,39842909
+pure_smb,0,0,0,0,0,Backup Target Low,kSMBOnly,39842903
+UN_test_fundaments,150.48,0.15,0.1,0.05,0,TestAndDev High,kNFSOnly,28098069
+testview,2.34,1.17,0.78,0.39,20,TestAndDev High,kAll,2020332
+cohesity_int_1294543,0,0,0,0,0,,,
+VadiNas,0,0,0,0,0,,,
+new,0,0,0,0,0,,,
+duett_clone,0,0,0,0,0,,,
+ArchiveNAS,0,0,0,0,0,,,
+NAS-view,0,0,0,0,0,,,
+jaspreet_test,0,0,0,0,0,,,
